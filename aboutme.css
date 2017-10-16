@@ -149,3 +149,36 @@ margin-bottom: 10px;
   }
 
 }
+
+/*here starts css for the resume section*/
+
+#education {
+  font-size: 40px;
+  color: #EDFFEC;
+  /*padding-left: 50px;*/
+}
+
+.eduparagraph {
+  padding-left: 50px;
+}
+
+.northeastern{
+  margin-bottom: 5px;
+}
+
+.school{
+  margin: 0px;
+  padding: 0px;
+  height: 16px;
+}
+
+.bachelors {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  height: 20px;
+}
+
+.concentration{
+  margin-top: 0px;
+  padding-top: 0px;
+}
