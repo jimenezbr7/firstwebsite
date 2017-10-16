@@ -152,21 +152,22 @@ margin-bottom: 10px;
 
 /*here starts css for the resume section*/
 
-#education {
+#education, #experience {
   font-size: 40px;
   color: #EDFFEC;
   /*padding-left: 50px;*/
 }
 
-.eduparagraph {
+.paragraph {
   padding-left: 50px;
+  width: 500px;
 }
 
 .northeastern{
   margin-bottom: 5px;
 }
 
-.school{
+.school, .work{
   margin: 0px;
   padding: 0px;
   height: 16px;
@@ -181,4 +182,15 @@ margin-bottom: 10px;
 .concentration{
   margin-top: 0px;
   padding-top: 0px;
+}
+
+.aba {
+  margin-bottom: 10px;
+  padding-bottom: 0px;
+  height: 20px;
+}
+
+.jobduties{
+  font-size: 12px;
+  line-height: 14px;
 }
